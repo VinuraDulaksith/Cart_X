@@ -1,0 +1,9 @@
+{
+    "visualText": [
+        {
+            "name": "Analyzer",
+            "type": "state",
+            "currentAnalyzer": "d:\\SEM 04\\Software Engineering\\flutter_barcode_scanner-master"
+        }
+    ]
+}
